@@ -1,4 +1,4 @@
-FROM sameersbn/gitlab:8.13.6
+FROM sameersbn/gitlab:8.16.6
 
 EXPOSE 80
 ENTRYPOINT ["/sbin/dokku-entrypoint.sh"]
