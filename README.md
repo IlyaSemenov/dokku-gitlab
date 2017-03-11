@@ -3,7 +3,7 @@
 ## Quick start
 
 1. Clone/fork this project.
-2. Update settings in `dokku.env` (please refer to <https://github.com/sameersbn/docker-gitlab#available-configuration-parameters>).
+2. Update/add settings in `dokku.env` (please refer to <https://github.com/sameersbn/docker-gitlab#available-configuration-parameters>).
 3. Run:
 
 ```bash
